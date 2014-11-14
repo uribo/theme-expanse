@@ -74,7 +74,7 @@ h4 {
   color: #0e3029;
   padding: 0 0 50px 0;
   font-family: 'Roboto';
-  font-weight: 300;
+  font-weight: 360;
 }
 h1 {
   font-size: 4rem;
@@ -1299,6 +1299,7 @@ h3.tag-header {
 
 /* customize */
 code {
+  display: block;
   background-color: #f7f7f7;
   border-radius: 6px;
 }
